@@ -5,6 +5,7 @@ body {
 img {
   display: block;
   max-width: 75%;
+  
 }
 
 nav {
@@ -31,4 +32,11 @@ li:hover {
 a {
   text-decoration: none;
   color: teal;
+}
+
+h1{
+  text-align: center;
+  font-size: 85px;
+  color: snow;
+  
 }
